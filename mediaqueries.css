@@ -20,6 +20,12 @@
     font-family: 'Outfit';
 }
 
+p {
+    font-size: 19px;
+    color: var(--);
+    line-height: 25px;
+}
+
 #menu-toggle, .navbar {
     display: none;
 }
